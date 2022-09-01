@@ -5,6 +5,7 @@ A simple task logger that measures how many seconds has elapsed for each task
 
 ## Tech Stack
 - Reactjs
+- React Redux
 - TailwindCSS
 - Vite
 
